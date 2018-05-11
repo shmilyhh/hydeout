@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reduction
+title: Reduction dasd
 ---
 
 This section presents how to use reduction algorithm to solve the problem.
