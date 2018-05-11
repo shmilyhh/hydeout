@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reduction dasd
+title: Introducing Hyde sadas
 ---
 
 This section presents how to use reduction algorithm to solve the problem.
