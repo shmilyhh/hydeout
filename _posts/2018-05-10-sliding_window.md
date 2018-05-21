@@ -13,7 +13,7 @@ This section includes the tricks that handle the sliding windows.
         2. use deque data structure to implement it, since it supports pop and append left and right functions
         3. store the index of data in queue, since the size of the queue could be less than window size, we need to decide whether the leftmost element is out of window based on the condition: leftmost index <= current index - window size
 
-- ### Sliding Window Matrix Maximum
+- #### Sliding Window Matrix Maximum
 
     - Original Problem
         - Given an array of n * m matrix, and a moving matrix window (size k * k), move the window from top left to bottom right at each iteration, find the maximum sum inside the window at each moving. Return 0 if the answer does not exist.
